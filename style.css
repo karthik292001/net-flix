@@ -1,0 +1,32 @@
+.hero{
+    background-image: url(./images/background_img.jpg);
+    height:100vh;
+    width: 100vw;
+    background-size: cover;
+    background-position: center;
+    background-color: rgba(0,0,0,0.6);
+    box-shadow: inset 100px 130px 250px #000000,inset -100px -130px 250px #000000;
+}
+.logoimg{
+    width: 100%;
+}
+.logo{
+    width:178px;
+}
+.align{
+    display:flex;
+    justify-content: space-between;
+    padding: 21px 51px;
+}
+body{
+    padding: 0%;
+    margin: 0%;
+}
+.signin{
+    text-decoration: none;
+    color: white;
+    background-color: red;
+}
+button{
+    background-color: red;
+}
